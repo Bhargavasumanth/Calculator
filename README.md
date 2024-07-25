@@ -2,9 +2,9 @@
 This is a Scientific calculator functionality achieved using Javascript.
 
 ## Tools and Technologies Used
-- HTML: For creating the structure of our calculator.
-- CSS: For styling the calculator interface.
-- JavaScript: For implementing the calculator’s functionality.
+- ### HTML: For creating the structure of our calculator.
+- ### CSS: For styling the calculator interface.
+- ### JavaScript: For implementing the calculator’s functionality.
 
 ## Execution
 - Download the entire repository.
