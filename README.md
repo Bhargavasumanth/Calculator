@@ -19,7 +19,10 @@ For implementing the calculator’s functionality.
 - Create a script.js file for JavaScript functionality.
 
 ## Calculator Images
+Calculator Image
 ![Calculator Image](https://github.com/user-attachments/assets/d8cc59bc-968a-43aa-bc88-f33a2c7bf336)
+Calculator Operation
 ![Calculator Operation](https://github.com/user-attachments/assets/87f63c27-798c-43b1-a2f6-abc2bde72bd5)
+Calculator Output
 ![Calculator Output](https://github.com/user-attachments/assets/72b5e030-d044-4bcc-a057-e4655780b4e2)
 
