@@ -6,7 +6,7 @@ This is a Scientific calculator functionality achieved using Javascript.
 - CSS: For styling the calculator interface.
 - JavaScript: For implementing the calculator’s functionality.
 
-### Execution
+## Execution
 - Download the entire repository.
 - Open up the index.html or Run LocalHost:3000 on VsCode.
 
