@@ -17,3 +17,6 @@ For implementing the calculator’s functionality.
 - Create an index.html file for the HTML structure.
 - Create a styles.css file for styling.
 - Create a script.js file for JavaScript functionality.
+
+## Calculator Images
+ ![Calculator Imagesc](C:\Users\bharg\OneDrive\Pictures\Screenshots\Screenshot 2024-07-25 192930.png)
